@@ -69,7 +69,7 @@ body {
 
 #navbarSupportedContent {
   width: 100%;
-  background-color: #f9ece6;
+  background-color: #e6f1f9;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -235,7 +235,7 @@ a:focus {
 .slider_section .slider_container {
   color: #fefefe;
   background-color: #000000;
-  background-color: #f89cab;
+  background-color: #d997d9;
   padding: 25px;
   border-radius: 0 0 15px 15px;
 }
